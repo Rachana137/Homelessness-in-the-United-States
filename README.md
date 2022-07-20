@@ -11,7 +11,12 @@
  
  ## Weather Data Sources
  
-  There are many sources available to gather weather data by given zipcode or state or a county. this type of data. Here is a list of the resources available.
+  There are many sources available to gather weather data by given zipcode or state or a county Here is a list of the resources/API's available.
   
   
 1. ### [NOAA](https://www.ncdc.noaa.gov/cdo-web/search)
+    
+    The National Oceanic And Atmosphearic Administration provides free access to NCDC's archive of global historical weather and climate data in addition to station history information. These data include quality controlled daily, monthly, seasonal, and yearly measurements of temperature, precipitation, wind, and degree days as well as radar data and 30-year Climate Normals. Customers can also order most of these data as certified hard copies for legal use.
+    
+2. ### 
+
