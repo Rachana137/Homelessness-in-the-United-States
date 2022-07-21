@@ -18,5 +18,20 @@
     
     The National Oceanic And Atmosphearic Administration provides free access to NCDC's archive of global historical weather and climate data in addition to station history information. These data include quality controlled daily, monthly, seasonal, and yearly measurements of temperature, precipitation, wind, and degree days as well as radar data and 30-year Climate Normals. Customers can also order most of these data as certified hard copies for legal use.
     
-2. ### 
+2. ### [OpenWeatherMap API](https://openweathermap.org/)
 
+  The OpenWeatherMap API currently provides a wide variety of weather data including (but not limited to) current weather, forecasts, historical, weather stations, and weather alerts.
+  
+3. ### [AerisWeather](https://www.aerisweather.com/develop/api/)
+
+  The AerisWeather API delivers global weather data beyond what traditional free and paid sources offer, including hyperlocal current conditions, extended forecasts, and detailed historical datasets. With a focus on business and enterprise, AeriesWeather offers up developer-friendly features like mobile and JavaScript SDKs to help developers reach production faster.
+  
+4. ### [VisualCrossing](https://www.visualcrossing.com/)
+
+  Visual Crossing Weather API provides instant access to both historical weather records and weather forecast data.It provides high-performance, low-cost access to global historical weather records and weather forecasts. Available weather metrics include temperature, rainfall, wind speed (including gusts), snow, perceived temperature, humidity, and pressure. Weather history data is available at the hourly and daily levels and global forecasts for hourly, daily, and 12-hour (day/night) periods.
+  
+# References
+
+https://www.hud.gov/2019-point-in-time-estimates-of-homelessness-in-US
+https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
+https://github.com/mengye22/US-homelessness
